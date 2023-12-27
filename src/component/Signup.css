@@ -1,0 +1,98 @@
+.App {
+  /* background-image: url('https://t3.ftcdn.net/jpg/05/79/48/54/360_F_579485400_8jSrBgNQP1BWUOjWujmRS79YJmzQv6fw.jpg'); */
+  background-size: cover;
+  height: 100vh;
+  
+  
+  align-items: center;
+  height: 100vh;
+  background-color: rgb(79, 224, 74);
+  margin: auto;
+  padding: 20px;
+  font-size: 30px;
+  font-family: 'Times New Roman', Times, serif, sans-serif;
+}
+
+.login-containe {
+    margin-left: 458px;
+    margin-bottom: 100px;
+    margin-top: 30px;
+    background-color:white;
+    padding: 70px;
+    height: 530px;
+    width: 400px;
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.1);
+  }
+
+.login-containe h3 {
+  text-align: center;
+  margin-bottom: 0px;
+  font-family: chiller;
+  font-size: 50px;
+  
+}
+.heading{
+  text-align: center;
+  margin-bottom: 40px;
+}
+.login-containe h3 {
+  margin-top: 0px;
+  margin-bottom: 40px;
+}
+
+.login-containe input{
+  width: 100%;
+  padding: 10px;
+  height: 20px;
+  margin-bottom: 15px;
+  border: none;
+  border-radius: 4px;
+  border-bottom: 1px solid #ccc;
+  
+  
+}
+
+.login-containe button {
+  width: 100%;
+  margin-left: 0px;
+  padding: 10px;
+  border-radius: 1px;
+  border: none;
+  border-radius: 4px;
+  background-color: #000000;
+  color: #fff;
+  cursor: pointer;
+}
+
+.login-containe button:hover {
+  background-color: #636363;
+  opacity: 1.7;
+  box-shadow: 2px 3px white;
+}
+
+.App h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+.link{
+  float: right;
+  text-decoration: none;
+  color :black;
+  text-align: center;
+  font-size:large;
+}
+.link2{
+  text-decoration: none;
+  color :#007bff;
+  
+  
+}
+.sign{
+    text-decoration: none;
+    color: white;
+}
+.para{
+  text-align: center;
+  font-size:large;
+}

@@ -1,0 +1,126 @@
+.App {
+  background-image: url('https://static.vecteezy.com/system/resources/previews/027/865/586/non_2x/set-of-restaurant-doodles-food-and-drinks-on-black-background-vector.jpg');
+  background-size: cover;
+  height: 100vh;
+  
+  /* https://t3.ftcdn.net/jpg/05/79/48/54/360_F_579485400_8jSrBgNQP1BWUOjWujmRS79YJmzQv6fw.jpg */
+
+  align-items: center;
+  width: 1380px;
+  height:700px;
+  
+  background-color: #f4f4f4;
+  margin: auto;
+  padding: 20px;
+  font-size: 30px;
+  font-family: 'Times New Roman', Times, serif, sans-serif;
+}
+
+.login-container {
+  margin-left: 458px;
+  margin-bottom: 100px;
+  margin-top: 30px;
+  background-color:white;
+  padding: 70px;
+  height: 460px;
+  width: 400px;
+  border-radius: 8px;
+  box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.1);
+}
+
+.login-container h1 {
+  text-align: center;
+  margin-bottom: 40px;
+  font-family: chiller;
+  
+}
+.login-container h3 {
+  text-align: center;
+  margin-bottom: 40px;
+  margin-top: 0px;
+  text-align: center;
+  margin-bottom: 40px;
+  
+}
+.heading{
+  text-align: center;
+  margin-bottom: 40px;
+}
+.login-container h2 {
+    text-align: center;
+    margin-bottom: 40px;
+    font-family: chiller;
+}
+
+.login-container input{
+  width: 100%;
+  padding: 10px;
+  height: 20px;
+  margin-bottom: 15px;
+  border: none;
+  border-radius: 4px;
+  border-bottom: 1px solid #ccc;
+  
+}
+.form{
+    font-family: chiller;
+}
+.login-container button {
+  width: 100%;
+  margin-left: 0px;
+  margin-bottom: 20px;
+  margin-top: 10px;
+  padding: 10px;
+  border-radius: 1px;
+  border: none;
+  border-radius: 4px;
+  background-color:rgb(0, 0, 0);
+  color: #fff;
+  cursor: pointer;
+}
+
+.login-container button:hover {
+  background-color: rgb(112, 112, 112);
+  opacity: 1.7;
+  box-shadow: 2px 3px white;
+}
+
+.App h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+.link{
+  float: right;
+  text-decoration: none;
+  color :black;
+  text-align: center;
+  font-size:large;
+}
+.link2{
+  text-decoration: none;
+  color :#007bff;
+  font-family: chiller;
+  
+  
+}
+.link3{
+  text-decoration: none;
+  color :white;
+  
+  
+}
+.para{
+  text-align: center;
+  font-size:large;
+}
+.parag{
+    text-align: center;
+    font-size:25px;
+    font-family: chiller;
+    font-size: 24px;
+
+}
+.but{
+  text-decoration: none;
+  color:white;
+}
